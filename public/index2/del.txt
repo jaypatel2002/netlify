@@ -1,0 +1,5 @@
+  <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://demo.gempixel.com/short/static/frontend/libs/select2/dist/css/select2.min.css"
+    />

@@ -1,0 +1,6 @@
+mongodb+srv://user:<password>@cluster0.ea17u.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+
+
+weshare whole file shareing thing
+
